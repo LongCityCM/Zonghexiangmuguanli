@@ -1,0 +1,7 @@
+{
+  "name": "unbindOpenID",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

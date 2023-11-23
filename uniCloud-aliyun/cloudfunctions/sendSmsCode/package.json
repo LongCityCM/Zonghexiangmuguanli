@@ -1,0 +1,7 @@
+{
+  "name": "sendSmsCode",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

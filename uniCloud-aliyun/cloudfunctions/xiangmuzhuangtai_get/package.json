@@ -1,0 +1,7 @@
+{
+  "name": "xiangmuzhuangtai_get",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

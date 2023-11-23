@@ -1,0 +1,7 @@
+{
+  "name": "getUserByPhone",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
