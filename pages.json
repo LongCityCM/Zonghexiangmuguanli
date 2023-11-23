@@ -1,0 +1,80 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/Login/Login",
+			"style": {
+				"navigationBarTitleText": "小移综合项目管理平台-登录",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/Task_management/Task_management",
+			"style": {
+				"navigationBarTitleText": "项目列表",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/User_Center/User_Center",
+			"style": {
+				"navigationBarTitleText": "个人中心",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/Project_details/Project_details",
+			"style": {
+				"navigationBarTitleText": "项目详情",
+				"enablePullDownRefresh": false
+			}
+
+		}
+	    ,{
+            "path" : "pages/Create_characters/Create_characters",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "项目创建",
+                "enablePullDownRefresh": false
+            }
+            
+        },
+        {
+        	"path" : "pages/Create_task/Create_task",
+        	"style" : 
+        	{
+        		"navigationBarTitleText" : "任务创建",
+        		"enablePullDownRefresh" : false
+        	}
+        },
+        {
+        	"path" : "pages/Task_details/Task_details",
+        	"style" : 
+        	{
+        		"navigationBarTitleText" : "任务详情",
+        		"enablePullDownRefresh" : false
+        	}
+        },
+        {
+        	"path" : "pages/Task_logs/Task_logs",
+        	"style" : 
+        	{
+        		"navigationBarTitleText" : "日志列表",
+        		"enablePullDownRefresh" : false
+        	}
+        },
+        {
+        	"path" : "pages/LogDetail/LogDetail",
+        	"style" : 
+        	{
+        		"navigationBarTitleText" : "日志详情",
+        		"enablePullDownRefresh" : false
+        	}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "小移综合项目管理平台",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}
